@@ -15,7 +15,7 @@
 //   foo.jpeg
 //   ^D
 //
-package main
+package thumbnail
 
 import (
 	"bufio"
