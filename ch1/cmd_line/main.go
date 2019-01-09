@@ -4,10 +4,11 @@ import (
 	"fmt"
 	"os"
 	"strings"
+	"time"
 )
 
 // Long variant with range
-func main1()  {
+func echo_long()  {
 	s, sep := "", ""
 	for _, arg := range os.Args[1:] {
 		s += sep + arg
@@ -17,6 +18,17 @@ func main1()  {
 }
 
 // Shortest realization
-func main()  {
+func echo_short()  {
 	fmt.Println(strings.Join(os.Args, "\n"))
+}
+
+func main()  {
+	start := time.Now()
+	echo_long()
+	fmt.Printf("%.6fs elapsed\n", time.Since(start).Seconds())
+
+	start = time.Now()
+	echo_short()
+	fmt.Printf("%.6fs elapsed\n", time.Since(start).Seconds())
+
 }

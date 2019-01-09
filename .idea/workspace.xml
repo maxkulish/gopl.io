@@ -2,172 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50c70fc2-49c0-4ddc-8af3-74ffff1d1a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ch1/cmd_line/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/dup1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/dup2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/dup3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/dup3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/echo1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/echo2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/echo3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/echo3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/fetch/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/fetch/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/fetchall/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/fetchall/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/helloworld/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/helloworld/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/lissajous/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/lissajous/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/server1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/server2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/server3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch1/server3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch10/cross/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch10/cross/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch10/jpeg/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch10/jpeg/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/echo/echo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/echo/echo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/echo/echo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/echo/echo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/storage1/storage.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/storage1/storage.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/storage2/quota_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/storage2/quota_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/storage2/storage.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/storage2/storage.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/word1/word.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/word1/word.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/word1/word_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/word1/word_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/word2/word.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/word2/word.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/word2/word_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch11/word2/word_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/display/display.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/display/display.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/display/display_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/display/display_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/format/format.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/format/format.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/format/format_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/format/format_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/methods/methods.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/methods/methods.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/methods/methods_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/methods/methods_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/params/params.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/params/params.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/search/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/search/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/sexpr/decode.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/sexpr/decode.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/sexpr/encode.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/sexpr/encode.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/sexpr/pretty.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/sexpr/pretty.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/sexpr/sexpr_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch12/sexpr/sexpr_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip-print/bzip2.c" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip-print/bzip2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip-print/bzip2.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip-print/bzip2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip-print/bzip2_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip-print/bzip2_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip/bzip2.c" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip/bzip2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip/bzip2.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip/bzip2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzip/bzip2_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzip/bzip2_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/bzipper/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/bzipper/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/equal/equal.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/equal/equal.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/equal/equal_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/equal/equal_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/unsafeptr/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch13/unsafeptr/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/boiling/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/boiling/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/cf/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/cf/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/echo4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/echo4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/ftoc/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/ftoc/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/popcount/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/popcount/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/popcount/popcount_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/popcount/popcount_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/tempconv/conv.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/tempconv/conv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/tempconv/tempconv.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/tempconv/tempconv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/tempconv0/celsius.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/tempconv0/celsius.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch2/tempconv0/tempconv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch2/tempconv0/tempconv_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/basename1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/basename1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/basename2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/basename2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/comma/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/comma/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/mandelbrot/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/mandelbrot/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/netflag/netflag.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/netflag/netflag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/printints/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/printints/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3/surface/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch3/surface/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/append/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/append/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/autoescape/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/autoescape/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/charcount/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/charcount/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/dedup/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/dedup/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/embed/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/embed/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/github/github.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/github/github.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/github/search.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/github/search.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/graph/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/graph/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/issues/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/issues/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/issueshtml/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/issueshtml/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/issuesreport/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/issuesreport/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/movie/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/movie/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/nonempty/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/nonempty/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/rev/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/rev/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/sha256/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/sha256/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/treesort/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/treesort/sort.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch4/treesort/sort_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch4/treesort/sort_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/defer1/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/defer1/defer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/defer2/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/defer2/defer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/fetch/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/fetch/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/findlinks1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/findlinks1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/findlinks2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/findlinks2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/findlinks3/findlinks.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/findlinks3/findlinks.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/links/links.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/links/links.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/outline/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/outline/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/outline2/outline.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/outline2/outline.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/squares/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/squares/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/sum/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/sum/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/title1/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/title1/title.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/title2/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/title2/title.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/title3/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/title3/title.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/toposort/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/toposort/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/trace/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/trace/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5/wait/wait.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch5/wait/wait.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/coloredpoint/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch6/coloredpoint/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/geometry/geometry.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch6/geometry/geometry.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/intset/intset.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch6/intset/intset.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/intset/intset_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch6/intset/intset_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/urlvalues/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch6/urlvalues/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/bytecounter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/bytecounter/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/ast.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/ast.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/check.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/check.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/coverage_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/coverage_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/eval.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/eval.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/eval_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/eval_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/parse.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/parse.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/eval/print.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/eval/print.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/http1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/http1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/http2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/http2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/http3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/http3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/http3a/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/http3a/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/http4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/http4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/sleep/sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/sleep/sleep.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/sorting/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/sorting/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/surface/surface.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/surface/surface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/tempconv/tempconv.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/tempconv/tempconv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/tempflag/tempflag.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/tempflag/tempflag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7/xmlselect/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch7/xmlselect/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/cake/cake.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/cake/cake.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/cake/cake_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/cake/cake_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/chat/chat.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/chat/chat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/clock1/clock.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/clock1/clock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/clock2/clock.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/clock2/clock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/countdown1/countdown.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/countdown1/countdown.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/countdown2/countdown.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/countdown2/countdown.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/countdown3/countdown.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/countdown3/countdown.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/crawl1/findlinks.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/crawl1/findlinks.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/crawl2/findlinks.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/crawl2/findlinks.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/crawl3/findlinks.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/crawl3/findlinks.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/du1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/du1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/du2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/du2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/du3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/du3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/du4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/du4/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/netcat1/netcat.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/netcat1/netcat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/netcat2/netcat.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/netcat2/netcat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/netcat3/netcat.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/netcat3/netcat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/pipeline1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/pipeline1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/pipeline2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/pipeline2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/pipeline3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/pipeline3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/reverb1/reverb.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/reverb1/reverb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/reverb2/reverb.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/reverb2/reverb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/spinner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/spinner/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/thumbnail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/thumbnail/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/thumbnail/thumbnail.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/thumbnail/thumbnail.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch8/thumbnail/thumbnail_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch8/thumbnail/thumbnail_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank1/bank.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank1/bank.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank1/bank_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank1/bank_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank2/bank.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank2/bank.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank2/bank_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank2/bank_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank3/bank.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank3/bank.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/bank3/bank_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/bank3/bank_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo1/memo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo1/memo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo1/memo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo1/memo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo2/memo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo2/memo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo2/memo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo2/memo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo3/memo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo3/memo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo3/memo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo3/memo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo4/memo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo4/memo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo4/memo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo4/memo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo5/memo.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo5/memo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memo5/memo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memo5/memo_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch9/memotest/memotest.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ch9/memotest/memotest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch1/cmd_line/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/cmd_line/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch1/cmd_line/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="540">
+              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
               <folding>
                 <element signature="e#14#37#0" expanded="true" />
               </folding>
@@ -276,12 +111,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547059559339</updated>
-      <workItem from="1547059560651" duration="2428000" />
+      <workItem from="1547059560651" duration="2848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2428000" />
+    <option name="totallyTimeSpent" value="2848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2680" height="1669" extended-state="0" />
@@ -336,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch1/cmd_line/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="540">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
           </folding>
