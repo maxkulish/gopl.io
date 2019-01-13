@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50c70fc2-49c0-4ddc-8af3-74ffff1d1a44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ch1/cmd_line/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/cmd_line/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/dup1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/dup2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/dup3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch1/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +17,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch1/cmd_line/main.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch1/dup1/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch1/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/ch1/dup1/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch1/dup2/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
-                <element signature="e#14#37#0" expanded="true" />
+                <element signature="e#153#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch1/dup3/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,6 +77,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scan</find>
+    </findStrings>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.11.2/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,10 +91,14 @@
       <list>
         <option value="$PROJECT_DIR$/practic/ch1/command_line/main.go" />
         <option value="$PROJECT_DIR$/ch1/cmd_line/main.go" />
+        <option value="$PROJECT_DIR$/ch1/dup/main.go" />
+        <option value="$PROJECT_DIR$/ch1/test.txt" />
+        <option value="$PROJECT_DIR$/ch1/dup3/main.go" />
+        <option value="$PROJECT_DIR$/ch1/dup2/main.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="2680" />
     <option name="height" value="1669" />
@@ -61,6 +114,17 @@
             <path>
               <item name="gopl.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="gopl.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gopl.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gopl.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gopl.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gopl.io" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+              <item name="dup2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,21 +175,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547059559339</updated>
-      <workItem from="1547059560651" duration="2848000" />
+      <workItem from="1547059560651" duration="8058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2848000" />
+    <option name="totallyTimeSpent" value="8058000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2680" height="1669" extended-state="0" />
+    <frame x="0" y="23" width="3008" height="1669" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14383562" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09303112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -145,7 +209,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info active="true" anchor="right" id="Terminal" order="7" visible="true" weight="0.39649925" />
+      <window_info active="true" anchor="right" id="Terminal" order="7" visible="true" weight="0.47428957" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,13 +219,6 @@
     <entry file="file://$PROJECT_DIR$/examples/ch1/dup2/main.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/ch1/dup1/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practic/ch1/command_line/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -169,12 +226,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.2/libexec/src/bufio/scan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="256" column="2" lean-forward="true" selection-start-line="256" selection-start-column="2" selection-end-line="256" selection-end-column="2" />
+          <folding>
+            <element signature="e#175#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch1/cmd_line/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="660">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.2/libexec/src/bufio/bufio.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="456" column="26" selection-start-line="456" selection-start-column="22" selection-end-line="456" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.2/libexec/src/bufio/bufio_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.11.2/libexec/src/bufio/example_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/ch1/dup1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/dup1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/dup3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch1/dup2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#153#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
