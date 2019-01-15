@@ -8,7 +8,7 @@ package main
 
 /*
 //!+values
-package url
+package fetch1
 
 // Values maps a string key to a list of values.
 type Values map[string][]string

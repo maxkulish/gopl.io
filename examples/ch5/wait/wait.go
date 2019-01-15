@@ -36,7 +36,7 @@ func WaitForServer(url string) error {
 
 func main() {
 	if len(os.Args) != 2 {
-		fmt.Fprintf(os.Stderr, "usage: wait url\n")
+		fmt.Fprintf(os.Stderr, "usage: wait fetch1\n")
 		os.Exit(1)
 	}
 	url := os.Args[1]

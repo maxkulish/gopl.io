@@ -7,7 +7,7 @@
 // result as HTML, and prints the links within it.
 //
 // Usage:
-//	findlinks url ...
+//	findlinks fetch1 ...
 package main
 
 import (
@@ -47,7 +47,7 @@ func main() {
 	}
 }
 
-// findLinks performs an HTTP GET request for url, parses the
+// findLinks performs an HTTP GET request for fetch1, parses the
 // response as HTML, and extracts and returns the links.
 func findLinks(url string) ([]string, error) {
 	resp, err := http.Get(url)
