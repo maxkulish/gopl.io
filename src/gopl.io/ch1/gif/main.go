@@ -1,5 +1,5 @@
 // Lissajous generates GIF animations of random Lissajous figures.
-package main
+package lissajous
 
 import (
 	"image"
