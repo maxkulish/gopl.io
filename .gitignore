@@ -20,3 +20,5 @@
 *.iml
 out
 gen
+src/golang.org
+src/github.com
