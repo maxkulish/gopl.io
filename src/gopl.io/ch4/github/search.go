@@ -9,10 +9,8 @@ import (
 )
 
 // SearchIssues queries the GitHub issue tracker
-func SearchIsssues(terms []string) (*IssuesSearchResult, error) {
-	fmt.Println(terms)
+func SearchIssues(terms []string) (*IssuesSearchResult, error) {
 	q := url.QueryEscape(strings.Join(terms, " "))
-	fmt.Println(IssuesURL + "?q=" + q)
 	resp, err := http.Get(IssuesURL + "?q=" + q)
 	if err != nil {
 		return nil, err
@@ -21,7 +19,7 @@ func SearchIsssues(terms []string) (*IssuesSearchResult, error) {
 	// We must close resp.Body on all execution paths
 	if resp.StatusCode != http.StatusOK {
 		resp.Body.Close()
-		return nil, fmt.Errorf("search query firld: %s", resp.Status)
+		return nil, fmt.Errorf("search query field: %s", resp.Status)
 	}
 
 	var result IssuesSearchResult
