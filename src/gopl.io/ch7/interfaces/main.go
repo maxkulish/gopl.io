@@ -1,19 +1,19 @@
 package main
 
 import (
-	"bytes"
-	"io"
-	"os"
+	"fmt"
+	"sort"
 )
 
-func main() {
-	var w io.Writer
-	w = os.Stdout
-	w = new(bytes.Buffer)
+type StringSlice []string
 
-	var any interface{}
-	any = true
-	any = 12.32
-	any = "hello"
-	any = map[string]int{"one": 1}
+func (p StringSlice) Len() int           { return len(p) }
+func (p StringSlice) Less(i, j int) bool { return p[i] < p[j] }
+func (p StringSlice) Swap(i, j int)      { p[i], p[j] = p[j], p[i] }
+
+func main() {
+
+	names := []string{"Anya", "Boris", "Nestor", "Ivan", "Alyona"}
+	sort.Strings(names)
+	fmt.Println(names)
 }
