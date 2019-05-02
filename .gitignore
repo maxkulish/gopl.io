@@ -24,3 +24,4 @@ src/golang.org
 src/github.com
 
 .DS_Store
+.vscode
