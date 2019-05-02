@@ -17,7 +17,7 @@ func main() {
 		if err == io.EOF {
 			break
 		} else if err != nil {
-			fmt.Fprintf(os.Stderr, "xmlselect: %v\n", err)
+			_, _ = fmt.Fprintf(os.Stderr, "xmlselect: %v\n", err)
 			os.Exit(1)
 		}
 		switch tok := tok.(type) {

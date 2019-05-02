@@ -34,12 +34,12 @@ func length(s string) time.Duration {
 func printTracks(tracks []*Track) {
 	const format = "%v\t%v\t%v\t%v\t%v\t\n"
 	tw := new(tabwriter.Writer).Init(os.Stdout, 0, 8, 2, ' ', 0)
-	fmt.Fprintf(tw, format, "Title", "Artist", "Album", "Year", "Lenght")
-	fmt.Fprintf(tw, format, "-----", "------", "-----", "----", "------")
+	_, _ = fmt.Fprintf(tw, format, "Title", "Artist", "Album", "Year", "Lenght")
+	_, _ = fmt.Fprintf(tw, format, "-----", "------", "-----", "----", "------")
 	for _, t := range tracks {
-		fmt.Fprintf(tw, format, t.Title, t.Artist, t.Album, t.Year, t.Lenght)
+		_, _ = fmt.Fprintf(tw, format, t.Title, t.Artist, t.Album, t.Year, t.Lenght)
 	}
-	tw.Flush() // calculate column widths and print table
+	_ = tw.Flush() // calculate column widths and print table
 }
 
 type byArtist []*Track
@@ -69,11 +69,11 @@ func main() {
 
 	printTracks(tracks)
 
-	fmt.Println()
+	fmt.Println("\nReverser byArtist")
 	sort.Sort(sort.Reverse(byArtist(tracks)))
 	printTracks(tracks)
 
-	fmt.Println()
+	fmt.Println("\nBy Year")
 	sort.Sort(byYear(tracks))
 	printTracks(tracks)
 
