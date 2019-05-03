@@ -6,10 +6,12 @@ import (
 )
 
 func main() {
+	start := time.Now()
 	go spinner(100 * time.Millisecond)
-	const n = 45
+	const n = 47
 	fibN := fib(n) // slow
 	fmt.Printf("\rFibonacci(%d) = %d\n", n, fibN)
+	fmt.Printf("Spent: %s", time.Since(start))
 }
 
 func spinner(delay time.Duration) {
