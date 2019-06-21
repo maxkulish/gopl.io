@@ -17,6 +17,7 @@ func New(f Func) *Memo {
 	return &Memo{f: f, cache: sync.Map{}}
 }
 
+// Concurrency-safe
 func (memo *Memo) Get(key string) (value interface{}, err error) {
 	res, ok := memo.cache.Load(key)
 	if !ok {
