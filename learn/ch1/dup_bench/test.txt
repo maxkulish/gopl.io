@@ -1,0 +1,34 @@
+// Dup2 prints the count and text of lines that appear more than once
+// in the input.  It reads from stdin or from a list of named files.
+package main
+package main
+The function os.Open returns two values.
+The first is an open file (*os.File) that is used in subsequent reads by the Scanner.
+The function os.Open returns
+The first is an open file (*os.File) that is used in subsequent
+The function os.Open returns
+The first is an open file (*os.File) that is used in subsequent
+The function os.Open returns
+The function os.Open returns
+package main
+package main
+package main
+package main
+package main
+package main
+The first is an open file (*os.File) that is used in subsequent
+The first is an open file (*os.File) that is used in subsequent
+The first is an open file (*os.File) that is used in subsequent
+The first is an open file (*os.File) that is used in subsequent
+
+
+
+
+The first is an open file (*os.File) that is used in subsequent
+package main
+
+package main
+
+package main
+
+The first is an open file (*os.File) that is used in subsequent reads by the Scanner.
